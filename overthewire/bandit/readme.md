@@ -16,6 +16,6 @@
 | 13→14 | SSH private key login | [https://overthewire.org/wargames/bandit/bandit14.html](./level-13-14) | ✅ |
 | 14→15 | nc to submit password | [https://overthewire.org/wargames/bandit/bandit15.html](./level-14-15) | ✅ |
 | 15→16 | SSL/openssl s_client | [https://overthewire.org/wargames/bandit/bandit16.html](./level-15-16) | ✅ |
-| 16→17 | Port scan (nmap) + SSL to find creds | [https://overthewire.org/wargames/bandit/bandit16.html](./level-16-17) | ✅ |
+| 16→17 | Port scan (nmap) + SSL to find creds | [https://overthewire.org/wargames/bandit/bandit17.html](./level-16-17) | ✅ |
 
 **Currently at:** Level 17
